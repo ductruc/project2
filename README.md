@@ -2,7 +2,7 @@
 
 ## <ins>Reading order</ins>
 
-The main project is entirely contained within the file `project2.ipynb.` The reflection is also in the form of a `.ipynb` notebook file. This project is best viewed in Jupyter Notebook.
+The main project is entirely contained within the file `project2.ipynb`. The reflection is also in the form of a `.ipynb` Notebook file. This project is best viewed in Jupyter Notebook.
 
 The runtime for the more computationally intensive cells of code is indicated in bold before each cell. The total runtime of the file `project2.ipynb` takes ~1300 seconds. The file is saved with all the cell outputs after a full run-through. 
 
@@ -28,4 +28,4 @@ Thomas Pagulatos
 
 ## <ins>License</ins>
 
-See LICENSE.md file for details.
+See `LICENSE.md` file for details.
