@@ -2,25 +2,25 @@
 
 ## <ins>Reading order</ins>
 
-The main project is entirely contained within the file project2.ipynb. The reflection is also in the form of a .ipynb notebook file. This project is best viewed in Jupyter Notebook.
+The main project is entirely contained within the file `project2.ipynb.` The reflection is also in the form of a `.ipynb` notebook file. This project is best viewed in Jupyter Notebook.
 
-The runtime for the more computationally intensive cells of code is indicated in bold before each cell. The total runtime of the file project2.ipynb takes ~1300 seconds. The file is saved with all the cell outputs after a full run-through. 
+The runtime for the more computationally intensive cells of code is indicated in bold before each cell. The total runtime of the file `project2.ipynb` takes ~1300 seconds. The file is saved with all the cell outputs after a full run-through. 
 
 ## <ins>Dependencies</ins>
 
-If any package is required, run !pip install package_name into a cell in the ipynb file.
+If any package is required, run !pip install package_name into a cell in the Notebook file.
 
 This project requires a system with a GPU to run successfully.
 
 ### <ins>List of Python modules used:</ins>
 
-- torch
-- torchvision
-- time
-- datetime
-- numpy as np
-- matplotlib.pyplot
-- tensorflow
+- `torch`
+- `torchvision`
+- `time`
+- `datetime`
+- `numpy`
+- `matplotlib.pyplot`
+- `tensorflow`
 
 ## <ins>Author</ins>
 
